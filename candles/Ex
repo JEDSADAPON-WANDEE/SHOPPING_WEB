@@ -1,0 +1,2 @@
+a href="addproduct.php?id=<?=$pid;?>" class="btn btn-info">เพิ่ม</a>
+			<a href="delete.php?id=<?=$pid;?>" class="btn btn-info">ลด</a>
